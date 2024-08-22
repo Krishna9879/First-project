@@ -10,5 +10,15 @@ console.log(b);
 
 }
 console.log(c);
+// this is the changes which is made my me
+
+var a,b;
+a=20;
+b=10;
+console.log(a+b);
+console.log(a-b);
+console.log(a*b);
+console.log(a/b);
+console.log(a%b);
 
 //console.log(b);

@@ -15,3 +15,4 @@ function myfun(){
 const pi = 22/7
 console.log(myfun())
 console.log(pi)
+console.log("this is the index js file and this changes will need to push to the mian")
